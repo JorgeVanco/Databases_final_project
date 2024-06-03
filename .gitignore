@@ -1,0 +1,8 @@
+data/
+new_data/
+__pycache__/
+.pytest_cache/
+dashboard.pbix
+Esquema_relacional.docx
+Martin_Vieira_Miguel_Vanco_Sampedro_Jorge_ProyectoBBDD.zip
+ProyectoBasesDeDatos.pdf
